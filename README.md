@@ -1,5 +1,5 @@
 ### Hey there, I'm Hamza 👋
-- 🧑‍🎓 I am currently working at Capital One as a Senior Business Analyst
+- 🔭 I am currently working at Capital One as a Senior Business Analyst
 - 🤓 I am Data Science & Analytics professional with around 6 years of experience
 - 📧 You can reach out to me on LinkedIn: https://www.linkedin.com/in/hamza-hamayun/ or shoot me an email: hamayunji@gmail.com
 
