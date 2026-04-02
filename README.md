@@ -4,7 +4,7 @@
 - 📧 You can reach out to me on LinkedIn: https://www.linkedin.com/in/hamza-hamayun/ or shoot me an email: hamayunji@gmail.com
 
 ### About me
-With close to 3 years of experience working as a data science professional, I've had the privilege of applying my skills to diverse challenges. As a Senior Performance Analyst at a multinational food delivery company(Delivery Hero) and as a Data Analyst at a healthcare startup Dawaai, I've not only analyzed trends and patterns but also translated data-driven insights into actionable recommendations that have contributed to enhancing customer/rider/vendor experiences and operational efficiency.
+With close to 6 years of experience working as a data science professional, I've had the privilege of applying my skills to diverse challenges. As a Senior Performance Analyst at a multinational food delivery company(Delivery Hero) and as a Data Analyst at a healthcare startup Dawaai, I've not only analyzed trends and patterns but also translated data-driven insights into actionable recommendations that have contributed to enhancing customer/rider/vendor experiences and operational efficiency.
 
 • Programming Skills & Tools - Python, R, SQL, Tableau, PySpark (Databricks), SAS, PowerBI, Salesforce, Looker Studio
 
